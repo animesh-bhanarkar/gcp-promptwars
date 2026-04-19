@@ -1,0 +1,16 @@
+{
+  "name": "SmartVenue Lite",
+  "short_name": "SmartVenue",
+  "description": "Venue navigation and crowd avoidance platform.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f111a",
+  "theme_color": "#5e6ad2",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzVlNmFkMiIvPjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
